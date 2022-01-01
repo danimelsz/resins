@@ -1,4 +1,4 @@
-##Do body size, lifespan, and colony size predict resin networks in stingless bees?
+## Do body size, lifespan, and colony size predict resin networks in stingless bees?
 
 **Authors**
 
