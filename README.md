@@ -1,4 +1,4 @@
-## Do body size, lifespan, and colony size predict resin networks in stingless bees?
+## Plant sources of resins in stingless bees: ecological predictors of the global network
 
 **Authors**
 
