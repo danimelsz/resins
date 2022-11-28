@@ -1,0 +1,10 @@
+	Geniotrigona_thoracica	Heterotrigona_erythrogastra	Heterotrigona_itama	Homotrigona_apicalis	Homotrigona_binghami	Homotrigona_canifrons	Homotrigona_fimbriata	Homotrigona_haematoptera	Homotrigona_melanoleuca	Lepidotrigona_ventralis	Melipona_compressipes	Melipona_favosa	Melipona_fuliginosa	Melipona_quadrifasciata	Melipona_scutellaris	Melipona_seminigra_merrillae	Plebeia_droryana	Plebeia_emerina	Plebeia_frontalis	Plebeia_lucii	Plebeia_remota	Scaptotrigona_bipunctata	Tetragona_clavipes	Tetragonisca_angustula	Tetragonula_atripes	Tetragonula_carbonaria	Tetragonula_collina	Tetragonula_fuscobalteata	Tetragonula_geissleri	Tetragonula_hockingsi	Tetragonula_laeviceps	Tetragonula_melanocephala	Tetragonula_melina	Tetragonula_reepeni	Tetragonula_sapiens	Trigona_corvina	Trigona_fulviventris	Trigona_spinipes
+Anacardiaceae	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	0	0	1	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Aracauriaceae	1	1	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+Burseraceae	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0
+Clusiaceae	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+Dipterocarpaceae	1	0	1	1	1	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	1	0	1	1	0	1	0	0	0	0
+Euphorbiaceae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	1	1	0
+Fabaceae	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Hypericaceae	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Myrtaceae	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	1	1	1	1	0	1	0	0	1
