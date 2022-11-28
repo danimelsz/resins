@@ -1,4 +1,4 @@
-## Plant sources of resins in stingless bees: ecological predictors of the global network
+## Body size affects specialization and modularity in the global resin foraging meta-network of stingless bees
 
 **Authors**
 
