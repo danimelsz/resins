@@ -1,0 +1,9 @@
+node_from	node_to	layer_from	layer_to	weight
+Anacardiaceae	Anacardiaceae	Neotropics	Indo-Malayan-Australasia	1
+Araucariaceae	Araucariaceae	Neotropics	Indo-Malayan-Australasia	1
+Clusiaceae	Clusiaceae	Neotropics	Indo-Malayan-Australasia	1
+Euphorbiaceae	Euphorbiaceae	Neotropics	Indo-Malayan-Australasia	1
+Fabaceae	Fabaceae	Neotropics	Indo-Malayan-Australasia	1
+Moraceae	Moraceae	Neotropics	Indo-Malayan-Australasia	1
+Myrtaceae	Myrtaceae	Neotropics	Indo-Malayan-Australasia	1
+Pinaceae	Pinaceae	Neotropics	Indo-Malayan-Australasia	1
