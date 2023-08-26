@@ -1,8 +1,8 @@
-## Body size affects specialization and modularity in the global resin foraging meta-network of stingless bees
+## Resin foraging interactions in stingless bees: a systematic synthesis using multilayer networks
 
 **Authors**
 
-Daniel Yudi Miyahara Nakamura, Sheina Koffler, Tiago Mauricio Francoy
+Daniel Yudi Miyahara Nakamura, Sheina Koffler, Marco Aurélio Ribeiro Mello, Tiago Mauricio Francoy
 
 **Abstract**
 
