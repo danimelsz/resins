@@ -6,5 +6,5 @@ Daniel Yudi Miyahara Nakamura, Sheina Koffler, Marco Aurélio Ribeiro Mello, Tia
 
 **Abstract**
 
-R code for systematic literature search, ecological network analysis, and phylogenetic comparative methods about resin interaction between stingless bees and plants
+R code for systematic literature search and ecological network analysis about resin interaction between stingless bees and plants
 
