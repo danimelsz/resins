@@ -378,8 +378,6 @@ df_emln <- df_emln[order(rownames(df_emln)), ] # sort rownames in alphabetical o
 # remove disconnected subnetworks: F.silvestri, M.beechei, M. orbynigi, T.williana
 df_emln_tol = df_emln[-c(2,19,26,66), ] 
 
-#### 2.2.1 [to be done] CONSERVATIVE MATRIX: DATA INPUT
-
 #### 2.2.1 CONSERVATIVE MATRIX: DATA INPUT ####
 
 #Load the required packages and functions.
@@ -665,11 +663,8 @@ df_emln <- df_emln[order(rownames(df_emln)), ] # sort rownames in alphabetical o
 # remove disconnected subnetworks: F.silvestri, M.beechei, M. orbynigi, T.williana
 df_emln_cons = df_emln[-c(2,18,23,60), ] 
 
-#### [to be done] 3. MULTINET ####
-#### 3.1 DEGREE ####
-#### 3.2 NEIGHBORHOOD ####
-#### 4. GLMMs ####
-#### 4.1 TOTAL ####
+#### 3. GLMMs ####
+#### 3.1 TOTAL ####
 library(ape)
 library(ggcorrplot)
 library(glmmTMB)
@@ -684,7 +679,7 @@ traits$module <- as.factor(traits$module) # convert module column to categorical
 dim(traits)
 
 # Load centrality (TOTAL)
-df_total = cbind (df_emln_tol, df_bipartite_tol) # merge bipartite and emln estimates
+df_total = cbind (df_emln_tol, df_bipartite_tol) 
 View(df_total)
 # Plot pairwise correlations between centrality metrics
 df_removeNA <- df_total[complete.cases(df_total), ]
@@ -708,7 +703,7 @@ phy_corr <- ape::vcv.phylo(pruned_phy_tree) # convert phylogeny to covariance ma
 class(phy_corr)
 
 # LM
-summary(lm(eigen_mult~(body_size_mean), data=data_GLM_tol)) # p = 0.00961
+summary(lm(eigen_mult~(body_size_mean), data=data_GLM_tol))
 plot(log(data_GLM_tol$body_size_mean), data_GLM_tol$eigen_mult)
 
 # GLM
